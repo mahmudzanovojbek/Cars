@@ -54,3 +54,8 @@ color: #FFFFFF;
     line-height: 18px;
     color: white;
 }
+.main__cards-img{
+    display: grid;
+    grid-template-columns: repeat(3,1fr);
+    grid-row: 1;
+}g
